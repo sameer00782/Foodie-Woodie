@@ -1,0 +1,19 @@
+.price{
+            font-size: 18px;
+            font-weight: bolder;
+            background-color: aquamarine;
+            display: inline-block;
+        }
+        .btn{
+            text-decoration: none;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bolder;
+            color:black;
+            background-color: cornflowerblue;
+        }
+        .heading{
+            color: aqua;
+            background-color: darkmagenta;
+            display: inline-block
+        }
